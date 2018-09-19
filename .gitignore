@@ -59,3 +59,20 @@ typings/
 
 # next.js build output
 .next
+
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+
+.idea
+.idea/
+
+# environment variables
+env*.yml
